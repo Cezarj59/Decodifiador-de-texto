@@ -12,3 +12,5 @@ Um decodificador que permite criptografar um texto digitado pelo usuário e desc
    <li>JavaScript</li>  
 </ul></i>
 
+Demonstração: https://cezarj59.github.io/Decodifiador-de-texto/
+
